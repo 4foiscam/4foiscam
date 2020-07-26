@@ -1,4 +1,4 @@
-![Cover](https://github.com/4foiscam/4foiscam/blob/master/img/wall.jpg)
+![Cover](https://github.com/4foiscam/4foiscam/blob/master/img/wall.gif)
 
 ### Hi there 👋
 
