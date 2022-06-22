@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+Avec des si on referait le monde 🐺
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
